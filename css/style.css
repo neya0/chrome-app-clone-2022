@@ -63,3 +63,14 @@ body{
 #quotes span{
     margin-right: 5px;
 }
+#weather{
+    position: absolute;
+    top: 20px;
+    right: 20px
+}
+#weather span{
+    color: white;
+    font-size: 20px;
+    display: block;
+    text-align: center;
+}
